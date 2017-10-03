@@ -1,2 +1,0 @@
-# gcaaAssignment
-Assignment for GCAA
